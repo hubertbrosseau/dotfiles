@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = hubert.brosseau@gmail.com
+	name = hubertbrosseau
